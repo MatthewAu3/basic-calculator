@@ -12,7 +12,7 @@ A basic calculator that runs on a local server that performs the addition, subtr
 
 ## How it was made
 
-**Tech Used:** HTML, CSS, Javascript
+**Languages Used:** HTML, CSS, Javascript
 
 **Motivation:** I wanted a basic project to showcase applying simple logic and making a visual pleasing program.
 
